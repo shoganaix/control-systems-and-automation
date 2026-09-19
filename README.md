@@ -7,7 +7,7 @@
 
 </div>
 
-This repository contains **MATLAB projects** and **simulations** developed during the *Industrial Automation course* of my **Industrial Electronics and Automation Engineering degree**.
+This repository contains **MATLAB projects** and **simulations** developed during the *Industrial Automation course* of my **Industrial Electronics and Automation Engineering microdegree**.
 
 The main focus is on **system modeling**, **control theory analysis**, and **dynamic system behavior evaluation**.
 
