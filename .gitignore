@@ -1,0 +1,18 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Microsoft Office temporary / lock files
+~$*
+*.tmp
+*.docx~
+
+# MATLAB
+*.asv
+*.mlappinstall
+*.mexw64
+*.mexw32
+
+# Empty leftovers from reorganization
+Practicas/
